@@ -1,5 +1,38 @@
 # Hosting a Full-Stack Application
 
+## Front-end Url
+
+[http://foryou-udagram.s3-website-us-east-1.amazonaws.com](http://foryou-udagram.s3-website-us-east-1.amazonaws.com)
+
+## API Url:
+
+[http://udagram-app-env.eba-jc6hxwnp.us-east-1.elasticbeanstalk.com](http://udagram-app-env.eba-jc6hxwnp.us-east-1.elasticbeanstalk.com)
+
+![](documentation/screenshots/0-diagram.jpg)
+![](documentation/screenshots/1-clone_repo.png)
+![](documentation/screenshots/2-create_user.png)
+![](documentation/screenshots/3-database.png)
+![](documentation/screenshots/4-s3-bucket.png)
+![](documentation/screenshots/5-test-api.png)
+![](documentation/screenshots/6-test-front-end.png)
+![](documentation/screenshots/7-test-database-connection.png)
+![](documentation/screenshots/8-s3-buckets.png)
+![](documentation/screenshots/9-s3-bucket-1.png)
+![](documentation/screenshots/10-s3-bucket-2.png)
+![](documentation/screenshots/11-api.png)
+![](documentation/screenshots/12-fron-end.png)
+![](documentation/screenshots/13-user-in-db.png)
+![](documentation/screenshots/14-circleci-environment-variables.png)
+![](documentation/screenshots/15-circleci-test-deploy.png)
+![](documentation/screenshots/16-circleci-build.png)
+![](documentation/screenshots/17-circleci-deploy.png)
+![](documentation/screenshots/18.png)
+![](documentation/screenshots/19.png)
+![](documentation/screenshots/20.png)
+![](documentation/screenshots/21.png)
+![](documentation/screenshots/23.png)
+![](documentation/screenshots/24.png)
+
 ### **You can use you own project completed in previous courses or use the provided Udagram app for completing this final project.**
 
 ---
@@ -15,8 +48,6 @@ The project will also include writing documentation and runbooks covering the op
 # Udagram
 
 This application is provided to you as an alternative starter project if you do not wish to host your own code done in the previous courses of this nanodegree. The udagram application is a fairly simple application that includes all the major components of a Full-Stack web application.
-
-
 
 ### Dependencies
 
